@@ -3,7 +3,6 @@ using System.Collections;
 
 public class BerserkerAI : MonoBehaviour 
 {
-	//clear
 	public float chargeTime;
 	public float chargeDelay;
 	public float moveSpeed;
